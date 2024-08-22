@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [hello@pragcoes.co](mailto:@praghellocodes.co).
+For any questions or feedback, please contact [hello@pragcodes.co](mailto:hello@pragcodes.co).
