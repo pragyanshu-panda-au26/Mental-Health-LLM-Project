@@ -1,4 +1,6 @@
 # Your Therapist Chatbot
+![LLM](https://github.com/user-attachments/assets/4cf5d961-84fb-4146-a7b4-188685cf6753)
+
 
 This project is a Streamlit-based chatbot application designed to provide mental health support through conversational AI. The chatbot uses a language model to generate responses based on user input and converts the responses to speech using the Google Text-to-Speech API.
 
